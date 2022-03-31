@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Meriam Reffass</h1>
-<h3 align="center">A passionate Cloud Engineering Student developer from Morocco</h3>
+<h3 align="center">A passionate Cloud Engineering Student from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meriam-reffass&label=Profile%20views&color=0e75b6&style=flat" alt="meriam-reffass" /> </p>
 

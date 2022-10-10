@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **everything from AWS, cloud native to DevOps culture**
 
+- ⚡ AWS certified cloud practitionner 
+
 - 📫 How to reach me **reffass.meriam@gmail.com**
 
 - 📄 Know about my experiences [cv link](cv link)

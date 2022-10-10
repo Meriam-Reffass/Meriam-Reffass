@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriam-reffass" alt="meriam-reffass" /></a> </p>
 
-- 🌱 I’m currently learning **everythifrom AWS, Azure, cloud native to DevOps culture**
+- 🌱 I’m currently learning **everything from AWS, Azure, cloud native to DevOps culture**
 
 - 📫 How to reach me **reffass.meriam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NuRG5k7w5mtpNighXQzsLkDgZKOz5gNX/view?usp=sharing](https://drive.google.com/file/d/1NuRG5k7w5mtpNighXQzsLkDgZKOz5gNX/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1NuRG5k7w5mtpNighXQzsLkDgZKOz5gNX/view?usp=sharing)
 
 - 👨‍💻 Now working on **Azure**
 

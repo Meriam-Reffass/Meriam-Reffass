@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **reffass.meriam@gmail.com**
 
-- 📄 Know about my experiences [cv link](cv link)
+- 📄 Know about my experiences [cv link](https://drive.google.com/file/d/1NuRG5k7w5mtpNighXQzsLkDgZKOz5gNX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

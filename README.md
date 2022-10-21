@@ -10,6 +10,7 @@
 - 📫 How to reach me **reffass.meriam@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1qqI733-xInP8i2flfbuXTmiZqU_SdqRQ/view?usp=sharing)
+- 👨‍💻 AWS Certified Cloud Practitioner 
 
 - 👨‍💻 Now working on **Azure**
 

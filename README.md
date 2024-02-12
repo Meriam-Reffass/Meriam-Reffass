@@ -11,6 +11,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1HMiM_s0TrGSTSz2dwtKpK3RYcAlaZh8e/view?usp=sharing)
 - 👨‍💻 AWS Certified Cloud Practitioner 
+- 👨‍💻 AWS Certified Solution Architect 
 
 - 👨‍💻 Now working on **Azure**
 
